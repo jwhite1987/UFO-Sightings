@@ -35,10 +35,31 @@
                 <form>
                   <div class="form-group">
                     <ul class="list-group" id="filters">
+                      <select id="selDataset" onchange="getData(this.value)">
+                          <option value="datetime" id="the-date">Date</option>
+                          <option value="city">City</option>
+                          <option value="state">State</option>
+                      </select>
                       <li class="filter list-group-item">
-                        <label for="date">Enter a Date</label>
+                        <!-- <label for="date">Enter a Date</label> -->
                         <input class="form-control" id="datetime" type="text" placeholder="1/11/2011">
+                      </li><!--
+                      <li class="filter list-group-item">
+                        <label for="city">Enter a City</label>
+                        <input class="form-control" id="city" type="text" placeholder="anchorage">
                       </li>
+                      <li class="filter list-group-item">
+                        <label for="state">Enter a State</label>
+                        <input class="form-control" id="state" type="text" placeholder="ak">
+                      </li>
+                      <li class="filter list-group-item">
+                        <label for="country">Enter a Country</label>
+                        <input class="form-control" id="country" type="text" placeholder="us">
+                      </li>
+                      <li class="filter list-group-item">
+                        <label for="shape">Enter a Shape</label>
+                        <input class="form-control" id="shape" type="text" placeholder="circle">
+                      </li> -->
                     </ul>
                   </div>
                   <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
