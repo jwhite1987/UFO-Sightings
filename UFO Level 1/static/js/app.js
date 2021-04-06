@@ -5,7 +5,7 @@ var tableData = data;
 var tbody = d3.select("tbody");
 
 tableData.forEach(function(brightLights) {
-  // console.log(brightLights);
+  console.log(brightLights);
   var row = tbody.append("tr");
   Object.entries(brightLights).forEach(function([key, value]) {
     // console.log(key, value);
@@ -35,7 +35,6 @@ function runEnter() {
     Object.entries(brightLights).forEach(function([key, value]) {
       console.log(key, value);
       var cell = row.append("td");
-      cell.text(value)})
-    })
-  }
-};
+      cell.text(value)});
+    });
+  };
