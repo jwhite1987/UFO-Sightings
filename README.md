@@ -19,6 +19,6 @@
 - [JWhiteAnalytics.com](https://jwhiteanalytics.com)
 - [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
 
-#Screenshots
+## Screenshots
 ![image](/Images/screenshot1.png)
 ![image](/Images/screenshot2.png)
