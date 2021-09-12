@@ -1,4 +1,4 @@
-# UFO Sightings
+# `UFO Sightings`
 
 ## Project Description
 
