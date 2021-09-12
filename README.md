@@ -1,9 +1,10 @@
-# JavaScript and DOM
+# UFO Sightings
 
 ## Project Description
 
-- Write code that will create a table dynamically based upon a [dataset (data.js)].
-- Build a website that allows users to filter the table data for specific values using pure JavaScript, HTML, and CSS, and D3.js on the web page.
+- Using the UFO dataset provided, which contains a JavaScript array of eye-witness reports of 'UFO Sightings.'
+- Write code that will create a table dynamically based upon the dataset. The table will include Date/Time, City, State, Country, Shape and Comment..
+- Build a website that allows users to filter the table data for Date/Time using JavaScript, HTML, and CSS, and D3.js on the web page.
 
 ## Languages & Technology Used
 
