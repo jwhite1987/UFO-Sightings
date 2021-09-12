@@ -20,6 +20,6 @@
 - [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
 
 ## Screenshots
-![image](/Images/screenshot1.png)
+![image](/images/screenshot1.png)
 
-![image](/Images/screenshot2.png)
+![image](/images/screenshot2.png)
