@@ -15,11 +15,11 @@
 
 - ✨ [Demo](https://jimmywhite1987.github.io/JavaScript-and-DOM/)
 
-## Links
-- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
-- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
-
 ## Screenshots
 ![image](/images/screenshot1.png)
 
 ![image](/images/screenshot2.png)
+
+## Links
+- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
+- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
