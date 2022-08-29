@@ -14,7 +14,7 @@
 
 ## Project Link
 
-- ✨ [Demo](https://jimmywhite1987.github.io/UFO-Sightings/)
+- ✨ [Demo](https://jwhite1987.github.io/UFO-Sightings/)
 
 ## Screenshots
 ![image](/images/screenshot1.png)
@@ -23,6 +23,6 @@
 
 ## Links
 - [JWhiteAnalytics.com](https://jwhiteanalytics.com)
-- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
+- [LinkedIn](https://www.linkedin.com/in/jwhite1987)
 - [Full Resume](https://jwhiteanalytics.com/JWhite%20Resume.pdf)
 - [GitLab](https://gitlab.com/jimmywhite1987)
